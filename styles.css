@@ -520,8 +520,9 @@ button {
 }
 
 .note-a {
-  top: 0.85rem;
-  left: 1rem;
+  top: -1.1rem;
+  left: auto;
+  right: 2rem;
 }
 
 .note-b {
